@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PPT_EN=ppt-en-4-3-20191115.pptx
-PPT_EN_MD5=83a4f88c9217929a1bcbca1486b34489
+PPT_EN_MD5=0e57aa6fb9faa2e75f78b25d9c117be5
 TEMPDIR=temp
 OUTDIR=img
 
