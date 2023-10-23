@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xml:lang="ja" lang="ja" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="verify-v1" content="2e/g2jAwGrA7LItr726JNTI2TORHz0dw75JZ14wOSYA=" />
+<meta name="google-site-verification" content="OeeVN7TZ5YYMgmQeyUyOKjlj2j-gjWGWoEBixj_D7Ts" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+<meta name="format-detection" content="telephone=no" />
+<link rel="stylesheet" type="text/css" href="/common/css/cmn-layout-pc.css" media="print,screen and (min-width: 641px)" />
+<link rel="stylesheet" type="text/css" href="/common/css/cmn-layout-sp.css" media="screen and (max-width: 640px)" />
+<link rel="stylesheet" type="text/css" href="/common/css/cmn-element-pc.css" media="print,screen and (min-width: 641px)" />
+<link rel="stylesheet" type="text/css" href="/common/css/cmn-element-sp.css" media="screen and (max-width: 640px)" />
+<link rel="stylesheet" type="text/css" href="/common/css/cmn-style-pc.css" media="print,screen and (min-width: 641px)" />
+<link rel="stylesheet" type="text/css" href="/common/css/cmn-style-sp.css" media="screen and (max-width: 640px)" />
+<link rel="stylesheet" type="text/css" href="/common/css/additional.css" media="all" />
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/common/css/cmn-layout-pc.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/common/css/cmn-element-pc.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/common/css/cmn-style-pc.css" media="all" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/common/css/rwd-print.css" media="print" />
+<link rel="alternate stylesheet" type="text/css" href="/common/css/styleswitcherl.css" title="Large" />
+<link rel="shortcut icon" type="image/x-icon" href="/common/img/favicon.ico" />
+<script type="text/javascript" src="/common/js/webfontloader.js"></script>
+<script type="text/javascript" src="/common/js/webfontloader-script.js"></script>
+<script type="text/javascript" src="/common/js/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="/common/js/additional.js"></script>
+<script type="text/javascript" src="/common/js/adjustment.js"></script>
+<title>シンボルマーク・名刺・プレゼンテンプレート | 教職員向け | 東京工業大学</title>
+<meta name="keywords" content="シンボルマーク・名刺・プレゼンテンプレート,東京工業大学,東工大,とうこうだい,Tokyo Institute of Technology,Tokyo Tech,理工系,東京,大学,国立大学,教育,研究,社会連携,国際交流" />
+<meta name="description" content="教職員向けの東工大シンボルマーク・名刺・プレゼンテンプレートに関する情報の一覧ページです。" />
+<link rel="canonical" href="https://www.titech.ac.jp/public-relations/staff/logo" />
+<meta property="og:title" content="シンボルマーク・名刺・プレゼンテンプレート " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.titech.ac.jp/public-relations/staff/logo" />
+<meta property="og:image" content="https://www.titech.ac.jp/public-relations/img/index-btn-index-logo-0.gif" />
+<meta property="og:site_name" content="東京工業大学" />
+<meta property="og:description" content="教職員向けの東工大シンボルマーク・名刺・プレゼンテンプレートに関する情報の一覧ページです。" />
+<meta property="fb:app_id" content="2309869772" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@tokyotech_jp" />
+<script type="text/javascript" src="/common/js/jquery.biggerlink.js"></script>
+<script type="text/javascript">
+$(function(){
+	$('a[target="_blank"]').click(function(){
+		window.open(this.href);
+		return false;
+	});
+	$('.biggerlink').biggerlink();
+});
+</script>
+<script type="text/javascript" src="/common/js/flatheights.js"></script>
+<script type="text/javascript">
+$(function(){
+	var sets = [], temp = [];
+	$('.boxImageLinkList01 ul li .boxImageLinkArticle02').each(function(i) {
+		temp.push(this);
+		if (i % 2 == 1) {
+			sets.push(temp);
+			temp = [];
+		}
+	});
+	if (temp.length) sets.push(temp);
+	$.each(sets, function() {
+		$(this).flatHeights();
+	});
+});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-7676767-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VKBJ61GEPE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-VKBJ61GEPE');
+</script>
+</head>
+<body id="personnel">
+<div id="header">
+	<div data-id="headerIn">
+		<div id="headerLogoWrap">
+			<p id="headerLogo" class="headerLogo"><a class="headerLogoLink" href="/"><img class="headerLogoImg" src="/common/img/logo-white.svg" width="180" height="50" alt="東京工業大学　Tokyo Institute of Technology" /></a></p>
+			<p id="headerMenuBtn01">
+				<a href="javascript: void(0);">
+					<svg class="headerMenuBtn01-icon" width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="icon-humberger-menu-title">
+						<title id="icon-humberger-menu-title">メニューボタン</title>
+						<rect width="25" height="25" class="headerMenuBtn01-icon-background" fill="#052D5D"/><path d="M1.72949 0H0.568184V9.37127H1.481V5.63177L1.40493 1.85366L2.65751 6.76457H3.19506L4.55921 1.7185L4.48314 5.63177V9.37127H5.39596V0H4.22958L2.93136 4.68564L1.72949 0Z" fill="#927500"/><path d="M11.1243 5.03963V4.02913H8.04097V1.01694H11.5908V0H7.1028V9.37127H11.6364V8.36077H8.04097V5.03963H11.1243Z" fill="#927500"/><path d="M18.0493 9.37127V0H17.101L17.0858 6.98984L14.2206 0H13.2672V9.37127H14.2155L14.2307 2.36856L17.096 9.37127H18.0493Z" fill="#927500"/><path d="M24.4217 0H23.5139L23.4987 6.34621C23.492 6.62511 23.4565 6.89329 23.3922 7.15075C23.328 7.4082 23.235 7.63561 23.1133 7.83299C22.9882 8.03467 22.8344 8.19557 22.6518 8.31572C22.4693 8.43157 22.258 8.4895 22.0179 8.4895C21.7779 8.4895 21.5649 8.42943 21.379 8.30928C21.1964 8.18914 21.0443 8.03037 20.9226 7.83299C20.7975 7.63561 20.7011 7.4082 20.6335 7.15075C20.5693 6.89329 20.5355 6.62511 20.5321 6.34621L20.5118 0H19.6193L19.6091 6.34621C19.6125 6.78388 19.6734 7.1958 19.7917 7.58198C19.91 7.96387 20.074 8.29641 20.2836 8.57961C20.4932 8.8671 20.7451 9.09237 21.0392 9.25542C21.3333 9.41847 21.6596 9.5 22.0179 9.5C22.3695 9.5 22.6924 9.41847 22.9865 9.25542C23.2807 9.08808 23.5342 8.86066 23.7472 8.57317C23.9602 8.28997 24.1275 7.95743 24.2493 7.57554C24.371 7.19365 24.4318 6.78388 24.4318 6.34621L24.4217 0Z" fill="#927500"/><rect y="11.5" width="3.97727" height="3.5" fill="#927500"/><rect x="5.68182" y="11.5" width="19.3182" height="3.5" fill="#927500"/><rect y="16.5" width="3.97727" height="3.5" fill="#927500"/><rect x="5.68182" y="16.5" width="19.3182" height="3.5" fill="#927500"/><rect y="21.5" width="3.97727" height="3.5" fill="#927500"/><rect x="5.68182" y="21.5" width="19.3182" height="3.5" fill="#927500"/>
+					</svg>
+				</a>
+			</p>
+			<div id="headerMenuSec01">
+				<div id="headerMenuSec01In">
+					<div id="scroller01">
+						<div data-id="headerLinks">
+							<ul class="headerLinks-list">
+								<li class="headerLinks-list-item link01"><a href="/entrance-information" class="headerLinks-list-link">
+									<img aria-hidden="true" alt="" class="headerLinks-list-icon" src="data:image/svg+xml;charset=utf8,%3Csvg%20width%3D%2222%22%20height%3D%2222%22%20viewBox%3D%220%200%2022%2022%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20fill%3D%22none%22%3E%3Cpath%20d%3D%22M2.2%2015.18l-2.2%206.82%206.82-2.2-4.62-4.62zM15.287%202.057l-12.32%2012.32%204.667%204.667%2012.32-12.32-4.667-4.667zM21.67%203.41l-3.08-3.08c-.44-.44-1.1-.44-1.54%200l-.99.99%204.62%204.62.99-.99c.44-.44.44-1.1%200-1.54z%22%20fill%3D%22%23fff%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E">
+									<span class="headerLinks-list-text">新着入試情報</span>
+								</a></li>
+								<li class="headerLinks-list-item link02"><a href="/0/maps" class="headerLinks-list-link">
+									<img aria-hidden="true" alt="" class="headerLinks-list-icon" src="data:image/svg+xml;charset=utf8,%3Csvg%20width%3D%2222%22%20height%3D%2222%22%20viewBox%3D%220%200%2022%2022%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M2.95697%208.1875C2.95697%203.67289%206.56502%200%2011%200C15.4348%200%2019.043%203.67289%2019.043%208.18745C19.043%2010.8474%2017.7648%2013.9543%2015.2437%2017.422C13.3968%2019.9623%2011.5756%2021.725%2011.499%2021.7988C11.3596%2021.9331%2011.1798%2022%2011.0001%2022C10.815%2022%2010.6302%2021.9291%2010.4897%2021.7876C10.4132%2021.7106%208.59667%2019.8735%206.75322%2017.2976C4.23418%2013.7779%202.95697%2010.7128%202.95697%208.1875ZM11%208C12.1046%208%2013%207.10457%2013%206C13%204.89543%2012.1046%204%2011%204C9.89543%204%209%204.89543%209%206C9%207.10457%209.89543%208%2011%208Z%22%20fill%3D%22white%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E">
+									<span class="headerLinks-list-text">アクセス</span>
+								</a></li>
+								<li class="headerLinks-list-item link03"><a href="/public-engagement/giving" class="headerLinks-list-link">
+									<img aria-hidden="true" alt="" class="headerLinks-list-icon" src="data:image/svg+xml;charset=utf8,%3Csvg%20width%3D%2222%22%20height%3D%2222%22%20viewBox%3D%220%200%2022%2022%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20fill%3D%22none%22%3E%3Cpath%20d%3D%22M6.293%2013.778c.342-.301.376-.823.075-1.165l-.045-.052c-.144-.164-.348-.264-.567-.277h-.055c-.2%200-.394.073-.544.205l-1.107.972-1.008.885c-.341.302-.375.822-.075%201.165l.046.053c.301.342.823.376%201.166.075l.775-.68%201.339-1.181zM9.262%2015.844c-.2%200-.394.073-.544.205l-1.092.958c-.343.301-.377.823-.076%201.166.301.343.823.377%201.166.076l1.092-.958c.343-.301.377-.822.077-1.166-.157-.179-.384-.282-.622-.281zM3.726%2012.654c.343-.301.377-.823.076-1.166l-.014-.016c-.144-.165-.348-.266-.567-.279h-.055c-.2%200-.394.073-.544.205l-1.326%201.161c-.343.301-.377.823-.076%201.166.295.351.819.396%201.17.101l.011-.009.1-.088%201.009-.886.216-.189zM8.344%2014.967c.015-.219-.058-.435-.204-.599l-.012-.013c-.144-.164-.348-.264-.566-.277h-.055c-.2%200-.394.073-.544.205l-.13.114-1.339%201.176-.356.311c-.344.311-.37.841-.059%201.185.145.16.346.258.562.274.219.015.435-.058.599-.204l1.824-1.601c.166-.145.267-.351.28-.571zM19.271%2012.327l-6.434-5.243c-2.464%201.308-4.209.635-5.043.102-.435-.284-.557-.866-.274-1.301.088-.135.21-.245.353-.32l2.144-1.139-.158-.02c-1.935.306-3.89.474-5.849.504l-3.749%206.097.836.637.982-.863c.682-.599%201.721-.531%202.319.151l.014.017c.197.225.327.501.378.795.298-.203.655-.301%201.015-.277.435.027.842.227%201.128.556l.046.053c.288.327.434.755.404%201.19v.002l.227-.007c.435.027.842.227%201.128.556l.062.074-.051-.06c.289.327.435.756.405%201.191l-.003.016c.9-.064%201.682.614%201.746%201.514l.001.226c-.02.283-.114.555-.272.791l1.763%201.017c.387.219.877.089%201.105-.293.216-.364.111-.834-.24-1.071l-2.807-1.945-.005-.006-.189-.131c-.183-.132-.225-.387-.094-.571.129-.179.376-.224.559-.102l3.959%202.743c.365.253.867.162%201.12-.203.248-.363.161-.859-.197-1.114l-3.94-2.794-.006-.006c-.184-.131-.227-.386-.096-.571.131-.184.386-.227.571-.096l4.417%203.134c.386.273.921.181%201.193-.206.264-.374.187-.889-.174-1.17l-4.753-3.425c-.188-.125-.239-.379-.113-.567.125-.188.379-.238.567-.113l.021.015.325.232h.004l4.405%203.173.022.019.073.052.04.031.079.054c.368.264.878.193%201.161-.16.169-.214.224-.496.147-.758-.047-.162-.143-.305-.274-.411zM17.548%204.866c-.804.331-1.7.364-2.526.092l-2.176-.707c-.301-.095-.627-.067-.907.079l-.738.392-.023.012-2.923%201.553-.07.108.053.104c.86.549%202.333.949%204.441-.261.147-.084.33-.069.462.038l6.645%205.416c.093.076.176.162.249.257l1.643-1.644-3.502-5.696-.627.257zM20.016%2012.245l-.138-.174c-.064-.083-.136-.159-.217-.225l-6.647-5.415c-.068-.054-.162-.062-.237-.019-2.195%201.26-3.738.835-4.646.256-.096-.06-.151-.168-.144-.281.005-.116.072-.221.176-.273l3.683-1.956c.327-.171.709-.205%201.06-.093l2.176.705c.781.257%201.629.227%202.39-.086l.784-.321%203.671%205.97-1.912%201.912zm-7.137-6.258c.14%200%20.275.047.384.135l6.646%205.416.133.121%201.384-1.384-3.332-5.421-.471.193c-.848.349-1.793.383-2.664.096l-2.175-.706c-.25-.079-.522-.054-.754.067l-3.571%201.898c.827.481%202.189.774%204.121-.336.091-.052.194-.08.299-.081z%22%20fill%3D%22%23fff%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E">
+									<span class="headerLinks-list-text">東工大への寄附</span>
+								</a></li>
+								<li class="headerLinks-list-item link04"><a href="/0/contact" class="headerLinks-list-link">
+									<img aria-hidden="true" alt="" class="headerLinks-list-icon" src="data:image/svg+xml;charset=utf8,%3Csvg%20width%3D%2222%22%20height%3D%2222%22%20viewBox%3D%220%200%2022%2022%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20fill%3D%22none%22%3E%3Cpath%20d%3D%22M1.787%2018.74c-1.761%200-.029-1.787-.029-1.787l4.489-4.933c.437-.48%201.279-1.208%201.772-.806.493.402%201.15%201.216%201.608%201.675l.928.929c.498.441.88%200%20.88%200l.95-.936c.462-.455%201.124-1.25%201.617-1.619.493-.37%201.332.333%201.768.814l4.463%204.931c1.761%201.732.029%201.732.029%201.732h-18.475zm.762-4.059c-.437.48-1.074%201.315-1.505%201.8-.487.547-1.043.962-1.043.004l.021-9.624c.002-.649-.016-1.886.427-1.664.165.083.39.254.697.561l3.633%202.972c.502.411%201.209.913%201.441%201.248.146.211.213.457.002.669l-3.671%204.034zm10.451-3.182c-.502.412-1.722%201.999-2%202-.278%200-1.496-1.591-2-2l-7.227-6.632c-.504-.408-1.372-1.231-.94-1.451.312-.159.856-.157.856-.157h18.574c1.672%200%20.822.826.822.826l-8.085%207.415zm7.956%204.981c-.432-.484-1.07-1.32-1.506-1.8l-3.669-4.035c-.213-.212-.146-.458%200-.669.231-.335.939-.837%201.442-1.248l2.724-2.229c.502-.411%201.162-1.083%201.605-1.305.443-.222.424%201.016.425%201.664l.023%209.624c0%20.958-.557.543-1.044-.004z%22%20fill%3D%22%23fff%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E">
+									<span class="headerLinks-list-text">お問い合わせ</span>
+								</a></li>
+							</ul>
+						<!-- /headerLinks --></div>
+						<div id="gNavi">
+							<ul class="gNavi-list">
+								<li id="gNav01" class="gNavi-list-item first"><a href="/" class="gNavi-list-link">
+									<span>
+										<svg class="gNavi-list-icon" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="icon-home-title icon-home-desc">
+											<title id="icon-home-title">HOME</title>
+											<desc id="icon-home-desc">TOPページに移動するボタン</desc>
+											<path d="M10.9999 1.82068L0 10.6008L1.69151 12.4636L10.7025 5.24503C10.8763 5.10585 11.1234 5.10585 11.2973 5.24503L20.3083 12.4636L22 10.6008L10.9999 1.82068Z" fill="white"/><path d="M10.9999 6.22607L3.62456 12.125V21.3492H18.3752V12.125L10.9999 6.22607Z" fill="white"/>
+										</svg>
+									</span>
+								</a></li>
+								<li id="gNav02" class="gNavi-list-item"><a href="/about" class="gNavi-list-link">
+									<span class="gNavi-list-text">東工大について</span>
+								</a></li>
+								<li id="gNav03" class="gNavi-list-item"><a href="/education" class="gNavi-list-link">
+									<span class="gNavi-list-text">教育</span>
+								</a></li>
+								<li id="gNav04" class="gNavi-list-item"><a href="/research" class="gNavi-list-link">
+									<span class="gNavi-list-text">研究</span>
+								</a></li>
+								<li id="gNav05" class="gNavi-list-item"><a href="/outreach" class="gNavi-list-link">
+									<span class="gNavi-list-text">社会連携</span>
+								</a></li>
+								<li id="gNav06" class="gNavi-list-item last"><a href="/global" class="gNavi-list-link">
+									<span class="gNavi-list-text">国際交流</span>
+								</a></li>
+							</ul>
+						<!-- /gNavi --></div>
+						<div id="tNavi">
+							<ul class="tNavi-list">
+								<li id="tNav01" class="tNavi-list-item"><a href="https://admissions.titech.ac.jp/" class="tNavi-list-link" target="_blank">
+									<span class="tNavi-list-text">大学で学びたい方</span>
+									<span class="tNavi-list-text tNavi-list-subtext">(高校生・受験生サイトへ)</span>
+								</a></li>
+								<li id="tNav02" class="tNavi-list-item"><a href="/prospective-students" class="tNavi-list-link">
+									<span class="tNavi-list-text">大学院で学びたい方</span>
+								</a></li>
+								<li id="tNav03" class="tNavi-list-item"><a href="/industry-researchers" class="tNavi-list-link">
+									<span class="tNavi-list-text">企業・研究者の方</span>
+								</a></li>
+								<li id="tNav03-ori" class="tNavi-list-item"><a href="https://www.ori.titech.ac.jp/" class="tNavi-list-link" target="_blank" onclick="ga('send', 'event', 'TopLink', 'Click', 'tNav-ori-j', {'nonInteraction': 1});">
+									<span class="tNavi-list-text">産学連携を希望する方</span>
+								</a></li>
+								<li id="tNav04" class="tNavi-list-item"><a href="/alumni" class="tNavi-list-link">
+									<span class="tNavi-list-text">卒業生の方</span>
+								</a></li>
+								<li id="tNav05" class="tNavi-list-item"><a href="/students" class="tNavi-list-link">
+									<span class="tNavi-list-text">在学生の方</span>
+								</a></li>
+								<li id="tNav06" class="tNavi-list-item"><a href="/staff" class="tNavi-list-link">
+									<span class="tNavi-list-text">教職員向け (学内限定)</span>
+								</a></li>
+							</ul>
+						<!-- /tNavi --></div>
+					<!--/scroller01--></div>
+				<!-- /headerMenuSec01In --></div>
+			<!-- /headerMenuSec01 --></div>
+		<!-- /headerLogoWrap --></div>
+		<p data-id="headerLogoPrint01"><img src="/common/img/logo-print01.gif" width="980" height="80" alt="東京工業大学　Tokyo Institute of Technology" /></p>
+		<div id="headerSpBox01" data-id="headerSpBox01">
+			<div data-id="headerSearch">
+				<p class="headerSearch-text">検索</p>
+				<form name="SS_searchForm" id="SS_searchForm" class="headerSearch-form" action="https://search.jim.titech.ac.jp/search" method="get" enctype="application/x-www-form-urlencoded">
+				<input type="hidden" name="site" value="7L3DXU7V" />
+				<input type="hidden" name="charset" value="UTF-8" />
+				<input type="hidden" name="design" value="11" />
+				<p class="headerSearch-form-text"><input class="headerSearch-form-input" type="text" name="query" value="" id="SS_searchQuery" placeholder="教職員向けサイト内検索ボタン" maxlength="100" autocomplete="off" /></p>
+				<button name="sa" class="headerSearch-icon-wrapper">
+					<svg class="headerSearch-icon" width="22" height="22" viewBox="0 0 22 22" fill="#fff" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="icon-search-title">
+						<title id="icon-search-title">教職員向けサイト内検索ボタン</title>
+						<path d="M14.6922 2.51734C11.336 -0.838788 5.87369 -0.838788 2.51756 2.51734C-0.837843 5.8742 -0.837843 11.3358 2.51756 14.6927C5.50628 17.6807 10.1611 18.0008 13.515 15.6676C13.5856 16.0015 13.7471 16.3202 14.0068 16.5799L18.8944 21.4675C19.6067 22.1783 20.7576 22.1783 21.4663 21.4675C22.1778 20.756 22.1778 19.605 21.4663 18.8957L16.5787 14.0066C16.3204 13.7491 16.001 13.5868 15.6671 13.5162C18.0017 10.1616 17.6816 5.50752 14.6922 2.51734ZM13.1491 13.1496C10.6434 15.6552 6.56558 15.6552 4.06066 13.1496C1.55648 10.6439 1.55648 6.56681 4.06066 4.06118C6.56558 1.55626 10.6434 1.55626 13.1491 4.06118C15.6547 6.56681 15.6547 10.6439 13.1491 13.1496Z" fill="white"/>
+					</svg>
+					<span class="headerSearch-icon-text">検索</span>
+				</button>
+				</form>
+				<script type="text/javascript" src="/js/staff-search.js"></script>
+			<!-- /headerSearch --></div>
+			<div data-id="headerLang" id="headerLang">
+				<ul class="headerLang-list">
+					<li class="headerLang-list-item ja"><a href="#" class="headerLang-list-link active">日本語</a></li>
+					<li class="headerLang-list-item en"><a href="/english/public-relations/staff/logo" class="headerLang-list-link">English</a></li>
+				</ul>
+			<!-- /headerLang --></div>
+		<!-- /headerSpBox01 --></div>
+		<div data-id="headerFont">
+			<p class="headerFont-text">文字サイズ</p>
+			<ul class="headerFont-list">
+				<li class="headerFont-list-item fDefault"><a href="javascript:void(0);" class="headerFont-list-link" onclick="setActiveStyleSheet('Default'); return false;">標準</a></li>
+				<li class="headerFont-list-item fLarge"><a href="javascript:void(0);" class="headerFont-list-link" onclick="setActiveStyleSheet('Large'); return false;">大</a></li>
+			</ul>
+		<!-- /headerFont --></div>
+	<!-- /headerIn --></div>
+<!-- /header --></div>
+<div id="breadcrumb">
+<ul>
+<li class="home"><a href="/">トップページ</a></li>
+<li><a href="/staff">教職員向け</a></li>
+<li class="last">シンボルマーク・名刺・プレゼンテンプレート</li>
+</ul>
+<!-- /breadcrumb --></div>
+<div id="wrapper">
+	<div id="contents">
+		<div id="contentsIn">
+			<div id="lNaviBtnBox01">
+				<p class="lNaviBtn01"><a href="javascript: void(0);"><img src="/img/staff-sp-txt-lnavbtn01.png" width="61" height="11" alt="教職員向け" /></a></p>
+				<p class="headerBack01"><a href="/staff"><img src="/img/btn-header-back01.gif" width="64" height="48" alt="戻る" /></a></p>
+			<!-- /lNaviBtnBox01 --></div>
+		    <div id="main">
+				<div id="mainIn">
+					<div class="h1_category01 noborder">
+						<h1>シンボルマーク・名刺・プレゼンテンプレート</h1>
+					<!-- /h1_category01 --></div>
+					<div class="tit_sub_area01 tit_sub_area02">
+					<!-- /tit_sub_area01 --></div>
+			        <div class="section spSection01">
+<div class="boxImageLinkList01 fieldblock">
+    <ul>
+        <li>
+            <div class="boxImageLink02 biggerlink">
+                <div class="boxImageLinkIn02">
+                    <div class="boxImageLinkArticle02">
+                        <div class="titleWrap">
+                        <div class="title">
+                            <p><a href="/staff/logo/seal.html" >
+                            シンボルマーク
+                            </a></p>
+                        <!-- /title --></div>
+                    <!-- /titleWrap --></div>
+                    <div class="detailWrap">
+                        <p class="image"><img src="/public-relations/assets_c/2021/02/82-pic-index03-5-thumb-290xauto-250914.jpg" width="145" alt="" /></p>
+                        <div class="textDetail">
+                            <div>
+            <p>通称「窓ツバメ」。使用のルールやシンボルマークデータのダウンロードはこちらから</p>
+        </div>
+                        <!-- /textDetail --></div>
+                    <!-- /detailWrap --></div>
+                    <!-- /boxImageLinkArticle02 --></div>
+                <!-- /boxImageLinkIn02 --></div>
+            <!-- /boxImageLink02 --></div>
+        </li>
+        <li>
+            <div class="boxImageLink02 biggerlink">
+                <div class="boxImageLinkIn02">
+                    <div class="boxImageLinkArticle02">
+                        <div class="titleWrap">
+                        <div class="title">
+                            <p><a href="/staff/logo/cards.html" >
+                            名刺、封筒、レターヘッド、プレゼン用テンプレート
+                            </a></p>
+                        <!-- /title --></div>
+                    <!-- /titleWrap --></div>
+                    <div class="detailWrap">
+                        <p class="image"><img src="/public-relations/assets_c/2021/02/82-pic-index04-5-thumb-290xauto-250927.jpg" width="145" alt="" /></p>
+                        <div class="textDetail">
+                            <div>
+            <p>名刺、封筒、レターヘッド、プレゼン用テンプレートのデザインデータのダウンロード及び名刺の印刷業者への注文についてはこちらから</p>
+        </div>
+                        <!-- /textDetail --></div>
+                    <!-- /detailWrap --></div>
+                    <!-- /boxImageLinkArticle02 --></div>
+                <!-- /boxImageLinkIn02 --></div>
+            <!-- /boxImageLink02 --></div>
+        </li>
+    </ul>
+<!-- /boxImageLinkList01 --></div>
+			    	</div>
+				<!-- /mainIn --></div>
+			<!-- /main --></div>
+			<div id="sub">
+				<div id="subIn">
+					<div id="scroller02">
+					<p class="lNavi_label"><a href="/staff"><img src="/common/img/lnavi-label06.gif" width="230" height="240" alt="教職員向け" /></a></p>
+<div id="lNavi">
+<ul>
+<li class="first"><a href="/news"><span>東工大ニュース</span></a></li>
+<li><a href="/staff/news"><span>お知らせ</span></a></li>
+<li><a href="/staff/news/event"><span>イベントカレンダー</span></a></li>
+		<li><a href="/staff/portal"><span>東工大ポータル</span></a></li>
+		<li><a href="/staff/procedures"><span>事務系連絡先・座席図・届出・申請手続</span></a></li>
+		<li><a href="/staff/maintenance"><span>財務情報・経費使用・工事依頼</span></a></li>
+		<li><a href="/staff/facilities"><span>施設利用</span></a></li>
+		<li><a href="/0/staff/services"><span>サービス利用</span></a></li>
+		<li><a href="/staff/relations"><span>広報・情報発信</span></a></li>
+		<li><a href="/staff/safety"><span>安全・防災・情報セキュリティ</span></a></li>
+		<li><a href="/staff/wellbeing"><span>健康サポート</span></a></li>
+		<li><a href="/research-planning/staff/research"><span>研究</span></a></li>
+		<li><a href="/student/staff/rooms"><span>教育</span></a></li>
+		<li><a href="/staff/world"><span>国際交流</span></a></li>
+		<li><a href="/staff/rules"><span>制度・規則・名義使用</span></a></li>
+		<li><a href="/staff/consultations"><span>各種相談・質問窓口</span></a></li>
+		<li><a href="/0/staff/personnel"><span>人事異動・公募情報・職員名簿</span></a></li>
+		<li><a href="/0/staff/training"><span>研修・勉強会</span></a></li>
+        <li><a href="/public-relations/staff/logo" class="current"><span>シンボルマーク・名刺・プレゼンテンプレート</span></a>
+<ul>
+		<li><a href="/public-relations/staff/logo/seal"><span>シンボルマーク</span></a></li>
+		<li><a href="/public-relations/staff/logo/cards"><span>名刺、封筒、レターヘッド、プレゼン用テンプレート</span></a></li>
+</ul><!--/logo-->
+		</li>
+</ul>
+</div>
+					<!-- /scroller02 --></div>
+				<!-- /subIn --></div>
+			<!-- /sub --></div>
+		<!-- /contentsIn --></div>
+	<!-- /contents --></div>
+	<div id="footer">
+		<ul id="ftNavi"><!--
+			--><li class="spOnly"><span><a href="/">トップページ</a></span></li><!--
+			--><li><span><a href="/0/about-site">本サイトについて</a></span></li><!--
+			--><li><span><a href="/0/privacy">個人情報の取り扱いについて</a></span></li><!--
+			--><li><span><a href="/site-map">サイトマップ</a></span></li><!--
+			--><li><span><a href="/pressrelease">プレスリリース</a></span></li><!--
+			--><li><span><a href="/0/request">資料請求</a></span></li>
+		<!-- /ftNavi --></ul>
+		<div id="footerIn">
+			<div id="ftBlock">
+				<div id="ftBlockID">
+					<p id="footerlogo" class="footerlogo"><img src="/common/img/logo-black.svg" width="104" height="28" alt="東京工業大学　Tokyo Institute of Technology"></p>
+					<p id="copyright">&copy; Tokyo Institute of Technology. All rights reserved.</p>
+					<ul class="footer-sns-icon">
+						<li class="footer-sns-list"><a class="footer-sns-link" href="https://www.facebook.com/tokyotech.jp" target="_blank" rel="noopener noreferrer"><svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="facebook-logo-icon"><title id="facebook-logo-icon">Facebook logo</title><rect width="33" height="33" rx="4" fill="#0076FA"/><path d="M28 16.0672C28 9.95496 23.0751 5 17 5C10.9249 5 6 9.95496 6 16.0672C6 21.5912 10.0225 26.1697 15.2813 27V19.2663H12.4883V16.0672H15.2813V13.629C15.2813 10.8553 16.9235 9.32313 19.4361 9.32313C20.6396 9.32313 21.8984 9.53929 21.8984 9.53929V12.2629H20.5114C19.1449 12.2629 18.7188 13.116 18.7188 13.9912V16.0672H21.7695L21.2818 19.2663H18.7188V27C23.9775 26.1697 28 21.5912 28 16.0672Z" fill="white"/></svg></a></li>
+						<li class="footer-sns-list"><a class="footer-sns-link" href="https://twitter.com/tokyotech_jp" target="_blank" rel="noopener noreferrer"><svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="Twitter-logo-icon"><title id="Twitter-logo-icon">Twitter logo</title><rect width="33" height="33" rx="4" fill="#1D9BF0"/><path d="M24.8992 13.1363C24.9113 13.3113 24.9113 13.4863 24.9113 13.6629C24.9113 19.0444 20.8145 25.2508 13.3234 25.2508V25.2476C11.1105 25.2508 8.94353 24.6169 7.08063 23.4218C7.4024 23.4605 7.72579 23.4798 8.04998 23.4806C9.88385 23.4823 11.6653 22.8669 13.108 21.7339C11.3653 21.7008 9.83708 20.5645 9.30321 18.9056C9.91369 19.0234 10.5427 18.9992 11.1419 18.8355C9.24192 18.4516 7.87498 16.7823 7.87498 14.8436C7.87498 14.8258 7.87498 14.8089 7.87498 14.7919C8.44111 15.1073 9.07498 15.2823 9.72337 15.3016C7.93385 14.1056 7.38224 11.725 8.46289 9.86371C10.5306 12.4081 13.5814 13.9548 16.8564 14.1186C16.5282 12.704 16.9766 11.2218 18.0347 10.2274C19.675 8.68549 22.2548 8.76452 23.7968 10.404C24.7089 10.2242 25.583 9.88952 26.383 9.41532C26.079 10.3581 25.4427 11.1589 24.5927 11.6677C25.4 11.5726 26.1887 11.3565 26.9314 11.0266C26.3847 11.846 25.696 12.5597 24.8992 13.1363Z" fill="white"/></svg></a></li>
+						<li class="footer-sns-list"><a class="footer-sns-link" href="https://www.linkedin.com/school/%E6%9D%B1%E4%BA%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/" target="_blank" rel="noopener noreferrer"><svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="LinkedIn-logo-icon"><title id="LinkedIn-logo-icon">LinkedIn logo</title><rect width="33" height="33" rx="4" fill="#2867B2"/><path d="M10.4688 27.7195H6.34375V12.5945H10.4688V27.7195ZM8.40625 10.851C7.078 10.851 6 9.76475 6 8.4255C6 7.08625 7.078 6 8.40625 6C9.7345 6 10.8125 7.08625 10.8125 8.4255C10.8125 9.76475 9.73588 10.851 8.40625 10.851ZM26.9688 27.7195H22.8438V20.014C22.8438 15.383 17.3438 15.7336 17.3438 20.014V27.7195H13.2188V12.5945H17.3438V15.0214C19.2633 11.4656 26.9688 11.203 26.9688 18.4259V27.7195Z" fill="white"/></svg></a></li>
+						<li class="footer-sns-list"><a class="footer-sns-link" href="https://www.youtube.com/channel/UCCqK3r81WiKg7OjMnAORA9A" target="_blank" rel="noopener noreferrer"><svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="YouTube-logo-icon"><title id="YouTube-logo-icon">YouTube logo</title><rect width="33" height="33" rx="3" fill="#FE0000"/><path fill-rule="evenodd" clip-rule="evenodd" d="M26.2673 8.50757C27.343 8.78683 28.1901 9.60965 28.4777 10.6546C29 12.5485 29 16.5001 29 16.5001C29 16.5001 29 20.4515 28.4777 22.3452C28.1901 23.3902 27.343 24.2132 26.2673 24.4924C24.3177 25 16.5 25 16.5 25C16.5 25 8.68229 25 6.73266 24.4924C5.657 24.2132 4.80978 23.3902 4.52229 22.3452C4 20.4515 4 16.5001 4 16.5001C4 16.5001 4 12.5485 4.52229 10.6546C4.80978 9.60965 5.657 8.78683 6.73266 8.50757C8.68229 8 16.5 8 16.5 8C16.5 8 24.3177 8 26.2673 8.50757ZM20.495 16.5L13.9999 12.8571V20.1428L20.495 16.5Z" fill="white"/></svg></a></li>
+					</ul>
+				<!-- /ftBlockID --></div>
+				<div id="ftBlockLinks">
+					<ul>
+						<li><a href="/">トップページ</a></li>
+						<li><a href="/about">東工大について</a></li>
+						<li><a href="/education">教育</a></li>
+						<li><a href="/research">研究</a></li>
+						<li><a href="/outreach">社会連携</a></li>
+						<li><a href="/global">国際交流</a></li>
+					</ul>
+					<ul>
+						<li class="window"><a href="https://admissions.titech.ac.jp" target="_blank">大学で学びたい方<br />（高校生・受験生サイトへ）</a></li>
+						<li><a href="/prospective-students">大学院で学びたい方</a></li>
+						<li><a href="/industry-researchers">企業・研究者の方</a></li>
+						<li><a href="/alumni">卒業生の方</a></li>
+						<li><a href="/students">在学生の方</a></li>
+						<li><a href="/staff">教職員向け（学内限定）</a></li>
+					</ul>
+				<!-- /ftBlockLinks --></div>
+			<!-- /ftBlock --></div>
+		<!-- /footerIn --></div>
+	<p class="pageTop"><a href="#header"><img src="/common/img/btn-pagetop01-no.gif" width="40" height="196" alt="ページのトップへ" class="over" /></a></p>
+	<!-- /footer --></div>
+	<script type="text/javascript" src="/common/js/iscroll.js" async></script>
+	<script type="text/javascript" src="/common/js/common.js" async></script>
+	<script type="text/javascript" src="/common/js/styleswitcher.js" async></script>
+<!-- /wrapper --></div>
+</body>
+</html>
